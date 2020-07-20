@@ -1,7 +1,7 @@
 ---
 layout: col-sidebar
 title: OWASP Pittsburgh
-tags: NoVa
+tags: PGH
 level: 0
 region: North America
 ---
