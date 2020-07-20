@@ -1,6 +1,6 @@
-<!--### Chapter Information
-* Chapter Region
+### Chapter Information
+* OWASP Pittsburgh
 
 ### Social Links
-* [Meetup](#)
-* [Social Link](#)-->
+* [Meetup](https://www.meetup.com/OWASP-Pittsburgh-Chapter/)
+
