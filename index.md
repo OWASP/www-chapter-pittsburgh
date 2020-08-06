@@ -3,7 +3,7 @@ layout: col-sidebar
 title: OWASP Pittsburgh
 tags: PGH
 level: 0
-region: North Americ
+region: North America
 meetup-group: OWASP-Pittsburgh-Chapter
 country: USA
 postal-code: 15222
