@@ -1,0 +1,32 @@
+community:
+  - name: chapter-pittsburgh
+    platform: slack
+    url: https://owasp.slack.com/archives/C6L8UKLKA
+    description: '<https://www.meetup.com/OWASP-Pittsburgh-Chapter/> Checkout #owasp-pittsburgh slack via <https://pittsec.com/>'
+leaders:
+  - name: Kevin Cody
+    email: kevin.cody@owasp.org
+    github: kevcody
+  - name: Joshua Waibel
+    email: joshua.waibel@owasp.org
+  - name: Ryan Giobbi
+    email: ryan.giobbi@owasp.org
+location:
+  country: United States
+  country_code: US
+  region: Pennsylvania
+  city: Pittsburgh
+  postal_code: '15222'
+  latitude: 40.384715
+  longitude: -79.8207337
+meetup_group: OWASP-Pittsburgh-Chapter
+name: OWASP Pittsburgh
+repositories:
+  - name: www-chapter-pittsburgh
+    url: https://github.com/OWASP/www-chapter-pittsburgh
+    description: OWASP Foundation Web Repository
+tags:
+  - PGH
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-pittsburgh
